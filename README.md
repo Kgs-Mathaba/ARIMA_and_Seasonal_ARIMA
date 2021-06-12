@@ -1,2 +1,1 @@
-# ARIMA_and_Seasonal_ARIMA
-ARIMA_and_Seasonal_ARIMA models
+# ARIMA-And-Seasonal-ARIMA
